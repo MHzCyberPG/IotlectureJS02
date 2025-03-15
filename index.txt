@@ -1,0 +1,6 @@
+Study01.js      console.log && Comment
+Study02.js      คือการประกาศตัวแปร
+Study03.js      ชนิดข้อมูลที่มีใน js
+Study04.js      แปลงชนิดข้อมูล
+Study05.js      ตัวดำเนินการ +-*/ EP1
+Study06.js      ตัวดำเนินการ = += -= *= /= %= EP2
