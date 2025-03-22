@@ -4,4 +4,6 @@ Study03.js      ชนิดข้อมูลที่มีใน js
 Study04.js      แปลงชนิดข้อมูล
 Study05.js      ตัวดำเนินการ +-*/ EP1
 Study06.js      ตัวดำเนินการ = += -= *= /= %= EP2
-Study07.js      
+Study07.js      Control Statement if
+Study08.js      Control Statement if else if switch
+Study09.js      Control Statement while , do-while , for
